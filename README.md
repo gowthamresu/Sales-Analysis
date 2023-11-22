@@ -40,6 +40,7 @@ To address declining sales, we're leveraging Tableau for in-depth analysis, focu
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020
 and transactions.market_code="Mark001";`
 
+<img width="1440" alt="Screenshot 2023-11-22 at 12 10 04 AM" src="https://github.com/gowthamresu/Sales-Analysis/assets/112976244/8057ee17-f2db-45c1-8cd0-4173b08fde13">
 
 
 
