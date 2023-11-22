@@ -58,7 +58,10 @@ Step 4: Connect Tableau with MySql database or Excel database
   
 Step 5: Save the file 
 
-  
+#### Creating Star Schema in Tableau 
+	
+<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
+
 ## Data Analysis Using SQL
   
 1. Show all customer records
@@ -97,9 +100,6 @@ Step 5: Save the file
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
    
-#### Creating Star Schema in Tableau 
-	
-<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
 
 ## Data Analysis Using Tableau 
 
