@@ -11,7 +11,6 @@
 - Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
 
 
-## Project - India based Hardware company Sales Insights - Data Analysis performed on Tableau & SQL
 ### Problem Statements
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
@@ -25,7 +24,7 @@ Sales director wants to know the performance of the company in various Indian st
   
 - Q5. Net Profit & Profit Margin by Market
 
-### Approach - Project Planning 
+### Approach 
   
 #### 1. Purpose: What? Why? What do we want to achieve?
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
