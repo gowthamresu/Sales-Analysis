@@ -108,7 +108,6 @@ Step 5: Save the file
 
 ### [Gowtham Sai Resu]
 
-
 <a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-Gowtham Sai Resu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/gowtham-sai-resu-71021a195//" alt="Gowtham Sai Resu" height="20" width="100" /></a>
 src="https://img.shields.io/github/followers/gowthamsairesu?label=Follow&style=social&link=https://https://github.com//" alt="Gowtham Sai Resu" height="20" width="90" /></a>
 
