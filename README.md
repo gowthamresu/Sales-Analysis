@@ -43,6 +43,8 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 - Sales team able to take better decision & prove 10% cost savings of total spend.
 - Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
+### Data Analysis - Approach
+<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
 
 ### Setup Process
   
