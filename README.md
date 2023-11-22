@@ -99,5 +99,7 @@ Step 5: Save the file
 
 
 ## Data Analysis Using Tableau 
-  
+
+<img width="1160" alt="Screenshot 2023-11-22 at 12 10 17 AM" src="https://github.com/gowthamresu/Sales-Analysis/assets/112976244/e9106574-7ee6-451a-9bea-e2336d83bc2f">
+
 
