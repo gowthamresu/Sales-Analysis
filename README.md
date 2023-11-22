@@ -94,7 +94,10 @@ Step 5: Save the file
 1. Show total revenue in year 2020 in Chennai.
 
     `SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON transactions.order_date=date.date where date.year=2020and transactions.market_code="Mark001";`
-
+   
+#### Creating Star Schema in Tableau
+	
+<p  align="center"><a href="https://public.tableau.com/app/profile/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/Star%20Schema.png" /></a></p>
 
 ## Data Analysis Using Tableau 
 
