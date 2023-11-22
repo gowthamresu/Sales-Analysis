@@ -1,5 +1,5 @@
 ## Sales Insights Data Analysis Project
-The sales analysis of the company reveals a robust performance, marked by steady revenue growth over the past fiscal year
+To address declining sales, we're leveraging Tableau for in-depth analysis, focusing on key performance indicators and market trends to identify actionable insights for strategic recovery
 
 ### Data Analysis Using SQL
 
