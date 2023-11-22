@@ -1,6 +1,6 @@
 <h1 align="center">Sales Insights - Data Analysis using Tableau & SQL 
 	
-**I am sharing India based Hardware company Sales Insights** 
+**India based Hardware company Sales Datan Insights** 
 
 
 ### About Project 👨‍💻
