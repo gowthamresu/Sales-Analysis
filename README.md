@@ -26,7 +26,7 @@ Sales director wants to know the performance of the company in various Indian st
   
 - Q5. Net Profit & Profit Margin by Market
 
-### Approach - Project Planning & [Aims Grid](https://www.youtube.com/watch?v=6118I9HViuQ)
+### Approach - Project Planning 
   
 #### 1. Purpose: What? Why? What do we want to achieve?
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
